@@ -49,7 +49,7 @@ export default function App() {
           <p>
             Table of contents is in the sidebar
           </p>
-          
+          <SpaceBetween direction="horizontal" size="xs">
           <Button
             ariaLabel="Open code repository"
             href="https://github.com/103-104-team-code/code_104"
@@ -68,6 +68,7 @@ export default function App() {
           >
             Open engineering notebook site source code
           </Button>
+          </SpaceBetween>
         </Container>
       </SpaceBetween>
     </Shell>

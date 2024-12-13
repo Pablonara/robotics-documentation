@@ -48,6 +48,7 @@ export default function App() {
           <p>
             Code is basically identical to the code from last year except autonomous tweaked to be compatable with the new robot. Some ports also changed.
           </p>
+          <SpaceBetween direction="horizontal" size="xs">
           <Button
             ariaLabel="Open code repository"
             href="https://github.com/103-104-team-code/code_104"
@@ -66,6 +67,7 @@ export default function App() {
           >
             Open engineering notebook site source code
           </Button>
+          </SpaceBetween>
         </Container>
       </SpaceBetween>
     </Shell>
