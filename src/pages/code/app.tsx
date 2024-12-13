@@ -57,6 +57,15 @@ export default function App() {
           >
             Open code repository
           </Button>
+          <Button
+            ariaLabel="Open engineering notebook site source code"
+            href="https://github.com/Pablonara/robotics-documentation/blob/main/README.md"
+            iconAlign="right"
+            iconName="external"
+            target="_blank"
+          >
+            Open engineering notebook site source code
+          </Button>
         </Container>
       </SpaceBetween>
     </Shell>
