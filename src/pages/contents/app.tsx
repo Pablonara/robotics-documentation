@@ -61,7 +61,7 @@ export default function App() {
           </Button>
           <Button
             ariaLabel="Open engineering notebook site source code"
-            href="https://github.com/Pablonara/robotics-documentation/blob/main/README.md"
+            href="https://github.com/Pablonara/robotics-documentation"
             iconAlign="right"
             iconName="external"
             target="_blank"
